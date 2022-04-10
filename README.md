@@ -1,3 +1,3 @@
 # odin-recipes
 Recipes Repo
-Hello HTML!
+Building a basic site using HTML
